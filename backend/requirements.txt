@@ -9,6 +9,6 @@ fastapi
 uvicorn[standard]
 websockets
 pydantic
-google-generativeai
+google-genai
 pytest
 python-dotenv
