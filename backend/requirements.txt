@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers
+accelerate
+opencv-python
+pillow
+numpy
+fastapi
+uvicorn[standard]
+websockets
+pydantic
+google-generativeai
+pytest
+python-dotenv
